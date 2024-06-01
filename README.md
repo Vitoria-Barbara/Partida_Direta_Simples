@@ -47,5 +47,5 @@ O motor para de operar e o contato auxiliar da contatora também abre, garantind
 
 # Meu Projeto
 
-![VIDEO_PARTIDA_DIRETA_SIMPLES](/VIDEO_PARTIDA_DIRETA_SIMPLES.mp4)
+![VIDEO_PARTIDA_DIRETA_SIMPLES](/VIDEO_PARTIDA_DIRETA_SIMPLES.gif)
 

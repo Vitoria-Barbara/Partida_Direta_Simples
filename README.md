@@ -40,5 +40,7 @@ O motor para de operar e o contato auxiliar da contatora também abre, garantind
 * O relé térmico deve ser ajustado de acordo com a corrente nominal do motor.
 * O circuito de comando deve ser instalado em um local seco e ventilado.
 * O diagrama de partida direta simples é uma boa opção para motores de pequena e média potência. Para motores de grande potência, podem ser utilizados outros métodos de partida, como partida estrela-triângulo ou partida por autotransformador.
+
+
   
 ![partida_direta_simples.png](/partida_direta_simples.png).

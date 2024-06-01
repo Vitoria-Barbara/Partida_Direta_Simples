@@ -43,9 +43,9 @@ O motor para de operar e o contato auxiliar da contatora também abre, garantind
 
 
   
-![partida_direta_simples.png](/partida_direta_simples.png).
+![partida_direta_simples.png](assets/images/partida_direta_simples.png).
 
 ## Demostração
 
-![VIDEO_PARTIDA_DIRETA_SIMPLES](/VIDEO_PARTIDA_DIRETA_SIMPLES.gif)
+![VIDEO_PARTIDA_DIRETA_SIMPLES](assets/videos/VIDEO_PARTIDA_DIRETA_SIMPLES.gif)
 

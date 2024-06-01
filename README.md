@@ -11,6 +11,7 @@ No circuito de potência, estão presentes dispositivos de proteção essenciais
 O circuito de comando contém o esquema de acionamento do motor. Ele inclui um botão normalmente aberto (NO) para ligar e um botão normalmente fechado (NC) para desligar. Para assegurar que o motor continue operando após ser acionado pelo botão de ligar, há um selo elétrico. Também está presente um contato auxiliar da contatora K, que faz parte do circuito de comando. O disjuntor bipolar no circuito de comando garante a diferença de potencial necessária entre as duas fases, proporcionando uma proteção adicional.
 
 
+
 **Portanto, o esquema elétrico apresentado é um sistema de partida direta simples para um motor de indução trifásico. Ele inclui dispositivos de proteção no circuito de potência para prevenir curto-circuitos e sobrecargas, bem como um circuito de comando com botões de ligar e desligar, contato auxiliar e um sistema de selo para manutenção do motor ligado. O uso de disjuntores e relé térmico assegura a proteção e segurança do sistema.**
 
 

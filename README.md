@@ -1,4 +1,4 @@
-## **Análise do diagrama de partida direta simples em um motor de indução trifásico**
+# **Análise do diagrama de partida direta simples em um motor de indução trifásico**
 
 A imagem descreve um esquema elétrico para a partida direta simples de um motor de indução trifásico. O esquema inclui tanto o circuito de potência quanto o circuito de comando.
 
